@@ -1,0 +1,11 @@
+<p>
+  animation-example works!
+</p>
+<button (click)="add()">gggg</button>
+<div
+  style="display: block"
+  [@listAnimation]="test?.length"
+  [@.disabled]="enabledAnimations | async"
+>
+  <p style="display: block" *ngFor="let t of test">YEEEE +</p>
+</div>
