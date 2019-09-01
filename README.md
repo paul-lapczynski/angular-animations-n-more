@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/paullapczynski0517/Test%20Project/_apis/build/status/paul-lapczynski.angular-animations-n-more?branchName=master)](https://dev.azure.com/paullapczynski0517/Test%20Project/_build/latest?definitionId=2&branchName=master)
 # AngularAnimations
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
